@@ -1,0 +1,20 @@
+﻿Build started 5/18/2018 1:13:54 AM.
+     1>Project "D:\assignment\Semester 1\CSC128\CSC128-PROJECT\Coding C++\CAR RENTAL AT HOTEL\Presentation\Presentation.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Presentation.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Presentation.unsuccessfulbuild".
+         Touching "Debug\Presentation.lastbuildstate".
+     1>Done Building Project "D:\assignment\Semester 1\CSC128\CSC128-PROJECT\Coding C++\CAR RENTAL AT HOTEL\Presentation\Presentation.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
